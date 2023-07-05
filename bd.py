@@ -35,7 +35,7 @@ numano = ordem.index("numano") + 1
 txtpassageiro = ordem.index("txtpassageiro") + 1
 txttrecho = ordem.index("txttrecho") + 1
 
-'''
+
 with open("BDPRojFinal\inserirPartido.sql", 'w') as insert:
     for linha in csvfile:
         insert.write(f"INSERT INTO Partido(sgPartido) VALUES ('{linha[sgpartido]}');\n")
@@ -56,7 +56,7 @@ with open("BDPRojFinal\inserirParlamentar.sql", 'w') as insert:
     for linha in csvfile:
         insert.write(f"INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)\n" +
                      f"VALUES ({linha[nudeputadoid]}, '{linha[sguf]}', '{linha[txtnomeparlamentar]}', {linha[idecadastro]}, {linha[nucarteiraparlamentar]}, '{linha[sgpartido]}', {linha[codlegislatura]});\n")
-'''
+
 with open("BDPRojFinal\inserirSubcota.sql", 'w') as insert:
     for linha in csvfile:
         insert.write(f"INSERT INTO Subcota_Documento(txtNumero, numSubCota, txtDescricaoEspecificacao, datEmissao,"+

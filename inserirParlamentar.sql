@@ -1,0 +1,46 @@
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (3163, 'ES', 'Norma Ayub', 66179.0, 282.0, 'DEM', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (2917, 'SP', 'Fausto Pinato', 66828.0, 355.0, 'PP', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (2320, 'PI', 'Iracema Portella', 67138.0, 113.0, 'PP', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (3240, 'SE', 'Fabio Henrique', 68720.0, 175.0, 'PDT', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (2985, 'BA', 'Bacelar', 69871.0, 184.0, 'PODE', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (2924, 'PE', 'Felipe Carreras', 72442.0, 145.0, 'PSB', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (974, 'SP', 'Arlindo Chinaglia', 73433.0, 336.0, 'PT', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (993, 'SP', 'Celso Russomanno', 73441.0, 347.0, 'REPUBLICANOS', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1437, 'PR', 'Gustavo Fruet', 73460.0, 452.0, 'PDT', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (831, 'PR', 'Rubens Bueno', 73466.0, 460.0, 'CIDADANIA', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1454, 'RS', 'Henrique Fontana', 73482.0, 498.0, 'PT', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1458, 'RS', 'Pompeo de Mattos', 73486.0, 516.0, 'PDT', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1049, 'SP', 'Ivan Valente', 73531.0, 359.0, 'PSOL', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1480, 'MG', 'Julio Delgado', 73586.0, 250.0, 'PSB', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1502, 'SP', 'Rui Falcao', 73604.0, 390.0, 'PT', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1514, 'RS', 'Osmar Terra', 73692.0, 497.0, 'MDB', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (835, 'SC', 'Angela Amin', 73696.0, 471.0, 'PP', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (188, 'RJ', 'Benedita da Silva', 73701.0, 291.0, 'PT', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1042, 'PR', 'Hermes Parcianello', 73772.0, 448.0, 'MDB', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (1155, 'PR', 'Ricardo Barros', 73788.0, 462.0, 'PP', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (652, 'PE', 'Renildo Calheiros', 73801.0, 154.0, 'PCdoB', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (169, 'BA', 'Sergio Brito', 73808.0, 213.0, 'PSD', 56);
+INSERT INTO Parlamentar(nuDeputadoid, sgUF, txtnomeparlamentar, ideCadastro, nuCarteiraParlamentar, sgPartido, codLegislatura)
+VALUES (999, 'RS', 'Darcisio Perondi', 73891.0, 529.0, 'MDB', 56);
